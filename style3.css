@@ -1,0 +1,38 @@
+ body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  margin-top: 40px;
+  color: #444;
+}
+
+.edu {
+  text-align: center;
+  margin: 20px auto;
+  padding: 15px;
+}
+
+.edu p {
+  margin-bottom: 10px;
+}
+
+.edu-img {
+  width: 200px;       
+  height: auto;
+  border-radius: 8px; 
+  margin-top: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #333;
+  color: #fff;
+  margin-top: 20px;
+}
